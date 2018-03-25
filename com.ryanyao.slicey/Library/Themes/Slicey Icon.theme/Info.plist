@@ -11,14 +11,14 @@
 		<key>TextColor</key>
 		<string>#3a3a3a</string>
 		<key>TextYoffset</key>
-		<integer>6</integer>
+		<integer>8</integer>
 	</dict>
 	<key>CalendarIconDaySettings</key>
 	<dict>
 		<key>FontSize</key>
-		<integer>10</integer>
+		<integer>9</integer>
 		<key>TextYoffset</key>
-		<integer>0</integer>
+		<integer>3</integer>
 		<key>TextColor</key>
 		<string>#3a3a3a</string>
 	</dict>
