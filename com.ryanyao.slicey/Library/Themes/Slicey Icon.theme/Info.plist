@@ -18,7 +18,7 @@
 		<key>FontSize</key>
 		<integer>9</integer>
 		<key>TextYoffset</key>
-		<integer>3</integer>
+		<integer>6</integer>
 		<key>TextColor</key>
 		<string>#3a3a3a</string>
 	</dict>
