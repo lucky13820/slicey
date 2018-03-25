@@ -5,7 +5,6 @@ Architecture: iphoneos-arm
 Description: This is my first theme called Slicey! Enjoy!
 Homepage: http://ryanyao.design
 Depiction: https://twitter.com/RyanQYao
-Depends: com.anemonetheming.anemone
 Section: Themes
 Maintainer: Ryan Yao <ryanqyao@gmail.com>
 Author: Ryan Yao <ryanqyao@gmail.com>

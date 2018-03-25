@@ -7,9 +7,9 @@
 	<key>CalendarIconDateSettings</key>
 	<dict>
 		<key>FontSize</key>
-		<integer>32</integer>
+		<integer>28</integer>
 		<key>TextColor</key>
-		<string>#3a3a3c</string>
+		<string>#3a3a3a</string>
 		<key>TextYoffset</key>
 		<integer>6</integer>
 	</dict>
@@ -20,7 +20,7 @@
 		<key>TextYoffset</key>
 		<integer>0</integer>
 		<key>TextColor</key>
-		<string>#ffffff</string>
+		<string>#3a3a3a</string>
 	</dict>
 </dict>
 </plist>
