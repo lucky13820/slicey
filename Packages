@@ -3,10 +3,10 @@ Version: 1.01
 Architecture: iphoneos-arm
 Maintainer: Ryan Yao <ryanqyao@gmail.com>
 Filename: ./com.ryanyao.slicey.deb
-Size: 3540430
-MD5sum: 2377f117ada78531f66839ad7b6f4064
-SHA1: 478fb2ae8f5c42123c9de06ab55892c1fc011193
-SHA256: 0869979bb13d3800f49a32c9f61b3be52af00185d2e8f596471767565ca65584
+Size: 3540450
+MD5sum: f1691a2d30f24253411834156d552e70
+SHA1: b211ec037aad0a87bdf6863728501e055df515ef
+SHA256: 7a9a514456c4ac25fa50572b70536ae45dbc0ad214a85315474838a74dd1cdf0
 Section: Themes
 Homepage: http://ryanyao.design
 Description: This is my first theme called Slicey! Enjoy!
