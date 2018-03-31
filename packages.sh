@@ -1,1 +1,1 @@
-dpkg-deb -Zgzip -b com.ryanyao.slicey
+sudo dpkg-deb -b com.ryanyao.slicey
