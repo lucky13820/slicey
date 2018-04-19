@@ -1,0 +1,10 @@
+Package: com.ryanyao.slicey
+Name: Slicey
+Version: 1.0
+Architecture: iphoneos-arm
+Description: This is my first theme called Slicey! Enjoy!
+Homepage: https://ryanyao.design
+Depiction: https://www.paypal.me/QingYao
+Section: Themes
+Maintainer: Ryan Yao <ryanqyao@gmail.com>
+Author: Ryan Yao <ryanqyao@gmail.com>
